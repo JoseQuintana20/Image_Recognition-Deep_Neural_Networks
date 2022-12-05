@@ -1,4 +1,3 @@
 # Image_Recognition-Deep_Neural_Networks
-Reconocimiento de imagen por una red neuronal mediante Deep Network Designer
+MATLAB code for image recognition by a neural network using Deep Network Designer
 
-Code developed in Matlab
